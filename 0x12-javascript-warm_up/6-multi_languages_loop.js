@@ -1,7 +1,6 @@
 #!/usr/bin/node
 /*
- a script that prints a multi-lines
- using an array of string and a loop.
+ a script that prints a multi-lines using an array of string and a loop.
  */
 
 const myLines = ['C is fun', 'Python is cool', 'JavaScript'];
