@@ -3,8 +3,8 @@
  a script that prints a multi-lines using an array of string and a loop.
  */
 
-const arrayStrings = ['C is fun', 'Python is cool', 'JavaScript'];
+const sentences = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 let i = 0;
-for (i; i < arrayStrings.length; i++) {
-  console.log(arrayStrings[i]);
+for (i; i < sentences.length; i++) {
+  console.log(sentences[i]);
 }
